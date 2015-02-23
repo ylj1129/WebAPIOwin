@@ -1,0 +1,7 @@
+C:\Project\Tools\WebAPIOwin\UnitTest\bin\Debug\UnitTest.dll
+C:\Project\Tools\WebAPIOwin\UnitTest\bin\Debug\UnitTest.pdb
+C:\Project\Tools\WebAPIOwin\UnitTest\obj\Debug\UnitTest.dll
+C:\Project\Tools\WebAPIOwin\UnitTest\obj\Debug\UnitTest.pdb
+C:\Project\Tools\WebAPIOwin\UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Project\Tools\WebAPIOwin\UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jay\Desktop\Projects\WebAPIOwin\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
